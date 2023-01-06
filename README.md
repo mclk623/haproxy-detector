@@ -54,7 +54,7 @@ with this plugin, but it hasn't been tested yet. Feedback is welcomed.
 #### Spigot and its derivatives
 
 [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) is a required dependency.
-This plugin was developed using ProtocolLib v4.8.0; please try that version first if there are any errors.
+This plugin was developed using ProtocolLib v3.1; please try that version first if there are any errors.
 
 #### Velocity
 
